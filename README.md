@@ -83,7 +83,9 @@
 
 <h2>Latest Articles</h2>
 
-[![Asyraf Norafandi Medium](https://github-readme-medium.vercel.app/?username=asyrafnorafandi)](https://medium.com/@asyrafnorafandi)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asyrafnorafandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrafnorafandi/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asyrafnorafandi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrafnorafandi/1" alt="Recent Article 1">
 
 <h2>GitHub Stats</h2>
 <p>
